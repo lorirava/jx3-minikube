@@ -1,0 +1,2 @@
+git access token for Operator (https://jenkins-x.io/v3/admin/setup/operator/):
+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
